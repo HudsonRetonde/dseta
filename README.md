@@ -22,4 +22,4 @@ E, por fim, realizamos a integração de todo o sistema o qual realiza o envio d
 ![image](https://user-images.githubusercontent.com/100444673/202927705-c055b3f1-8f82-4240-a200-a0603cf7f9fa.png)
 
 
-Confira o deploy do projeto no [link](https://dsmetahudson.netlify.app/)
+Confira o deploy do projeto no [link](https://dsmetahudson.netlify.app/).
